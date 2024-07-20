@@ -2,6 +2,15 @@
 
 link - https://atlys-sigma.vercel.app/
 
+## To Run Project locally
+```
+git clone https://github.com/nitishsaini706/frontendRepoATL
+cd frontendRepoATL
+npm i
+npm start
+
+```
+
 ## screenshots
 
 1. <img width="542" alt="image" src="https://github.com/user-attachments/assets/d5813f8a-6bd0-4d39-936c-f1e8bac142f5">
